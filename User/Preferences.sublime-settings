@@ -1,0 +1,10 @@
+{
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 1,
+	"caret_extra_width": 3,
+	"color_scheme": "Packages/User/Tomorrow-Night-Blue.tmTheme",
+	"font_face:": "consolas",
+	"font_size": 20,
+	"theme": "Default.sublime-theme",
+	"save_on_focus_lost": true
+}
